@@ -17,11 +17,10 @@
 ### About Me
 
 - 🌱 I’m currently learning Angular.
-- 👯 I’m looking to collaborate on interesting web development projects.
-- 🤔 I’m looking for help with mastering Angular.
+- 👯 I want to work in amazing team.
 - 💬 Ask me about Node.js and MySQL.
-- 📫 How to reach me: [your email or contact information]
-- 😄 Pronouns: [your pronouns]
+- 📫 How to reach me by telegram: [https://t.me/Farruh_Zoirov]
+- 😄 I enjoy to learn new things in that way .........
 - ⚡ Fun fact: I enjoy working on both the frontend and backend of web applications.
 
 ---
