@@ -12,7 +12,6 @@
 
 ### About Me
 
-- 🔭 I’m currently working on building a health tracker app.
 - 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on interesting web development projects.
 - 🤔 I’m looking for help with mastering Angular.
@@ -37,7 +36,7 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=farruhzoirov&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
 <!--
