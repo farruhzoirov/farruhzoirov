@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋 I am Farruh Zoirov . I am professional web developer!</h1>
 
 <div style="display:flex; align-items:center" align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbOFmjGchTMwQriXqezOovYKqXWK3YXUnFlQ&s" width="200" height="auto">
