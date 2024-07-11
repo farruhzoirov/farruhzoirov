@@ -25,11 +25,11 @@
 
 ### Technologies & Tools
 
-<div align="center">
+<div style="display:flex; align-items:center" align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/angular.png" alt="Angular" title="Angular"/>
+  <img src="https://logowik.com/content/uploads/images/angular-new6082.logowik.com.webp" alt="Angular" title="Angular" width="70" height="auto"/>
 </div>
 
 ---
