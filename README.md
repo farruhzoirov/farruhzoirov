@@ -1,7 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-## Hi there 👋
+<h1 align="center>Hi there 👋</h1>
+
+<div>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbOFmjGchTMwQriXqezOovYKqXWK3YXUnFlQ&s" width="200px" height="200px">
+</div>
+
 
 <!--
 **farruhzoirov/farruhzoirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
