@@ -37,6 +37,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/fzoirov?theme=dark&font=Baloo%20Tamma%202&ext=contest" alt="LeetCode Stats" title="LeetCode Stats"/>
+</div>
+
 ### GitHub Stats
 
 <div align="center">
