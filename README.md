@@ -4,8 +4,9 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-<div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbOFmjGchTMwQriXqezOovYKqXWK3YXUnFlQ&s" width="200" height="200">
+<div style="display:flex; align-items:center" align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbOFmjGchTMwQriXqezOovYKqXWK3YXUnFlQ&s" width="200" height="auto">
+  <img src="https://logowik.com/content/uploads/images/nodejs.jpg" width="200" height="auto" >
 </div>
 
 ---
