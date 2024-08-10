@@ -5,7 +5,6 @@
 <h1 align="center">Hi there 👋 I am Farruh Zoirov . I am professional web developer!</h1>
 
 <div style="display:flex; align-items:center" align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbOFmjGchTMwQriXqezOovYKqXWK3YXUnFlQ&s" width="200" height="auto">
   <img src="https://logowik.com/content/uploads/images/nodejs.jpg" width="200" height="auto" >
 </div>
 
@@ -16,7 +15,7 @@
 
 ### About Me
 
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Node.js depper.
 - 👯 I want to work in amazing team.
 - 💬 Ask me about Node.js and MySQL.
 - 📫 How to reach me by telegram: [https://t.me/Farruh_Zoirov]
@@ -31,7 +30,6 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/>
-  <img src="https://logowik.com/content/uploads/images/angular-new6082.logowik.com.webp" alt="Angular" title="Angular" width="70" height="auto"/>
 </div>
 
 ---
