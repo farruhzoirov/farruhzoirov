@@ -8,10 +8,6 @@
   <img src="https://logowik.com/content/uploads/images/nodejs.jpg" width="200" height="auto" >
 </div>
 
----
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ### About Me
 
