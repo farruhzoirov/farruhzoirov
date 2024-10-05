@@ -6,36 +6,7 @@
 </div>
 
 
-### About Me
 
-- 🌱 I’m currently learning Node.js depper.
-- 👯 I want to work in amazing team.
-- 💬 Ask me about Node.js and MySQL.
-- 📫 How to reach me by telegram: [https://t.me/Farruh_Zoirov]
-- 😄 I enjoy to learn new things in that way .........
-- ⚡ Fun fact: I enjoy working on both the frontend and backend of web applications.
-
----
-
-### Technologies & Tools
-
-<div style="display:flex; align-items:center" align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/>
-</div>
-
----
-### My leetcode process
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/fzoirov?theme=dark&font=Baloo%20Tamma%202&ext=contest" alt="LeetCode Stats" title="LeetCode Stats"/>
-</div>
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farruhzoirov&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
 
 <!--
 **yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
