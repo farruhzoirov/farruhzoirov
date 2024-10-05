@@ -1,11 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <h1 align="center">Hi there 👋 I am Farruh Zoirov . I am professional web developer!</h1>
 
 <div style="display:flex; align-items:center" align="center">
-  <img src="https://logowik.com/content/uploads/images/nodejs.jpg" width="200" height="auto" >
+  <img src="https://blog.apify.com/content/images/2024/04/Web-scraping-with-JavaScript-and-Node.js.png" width="200" height="auto" >
 </div>
 
 
