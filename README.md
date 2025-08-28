@@ -16,7 +16,7 @@ Mening ishlarim va loyihalarimni to‘liqroq ko‘rishni istasangiz, shaxsiy say
 
 ---
 
-## 📌 Qalalgan loyihalar
+## 📌 Qadalgan loyihalar
 Quyida GitHub’dagi eng muhim loyihalarimdan ba’zilarini topishingiz mumkin 👇
 
 
